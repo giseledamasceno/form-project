@@ -1,0 +1,42 @@
+
+
+.margins {
+    color: blue;
+}
+
+.header {
+    color:blueviolet;
+}
+
+#head {
+    color:rgb(241, 117, 117);
+
+}
+
+/* Posso usar h1.active para priorizar uma propriedade */
+
+section > h1 {
+    margin: 50px;
+    background-color: crimson;
+}
+
+.margins-button {
+    padding: 50px 20px 10px 0px;
+    background-color: rgb(105, 139, 24);
+}
+
+div !important{
+    background: royalblue;
+    color: white;
+    width: 200px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 50px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+

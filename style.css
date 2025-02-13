@@ -1,0 +1,36 @@
+#logo {
+    color: rgb(37, 37, 146);
+}
+
+h2 {
+    color: royalblue;
+}
+
+p {
+    color: rgb(141, 106, 106);
+}
+
+
+.random ol {
+    color: darkmagenta;
+}
+
+* {
+    font-size: 27px;
+}
+
+.random ul {
+    list-style: none;
+}
+
+ul > li {
+    color: darkslateblue;
+}
+
+.nav-links > li {
+    color: rgb(22, 105, 63);
+}
+
+.panda:nth-child(2) {
+    color: rgb(255, 0, 0);
+}
